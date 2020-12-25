@@ -1,0 +1,23 @@
+body {
+    background-color:cadetblue;
+}
+h1 {
+    font-weight:normal;
+    color:chocolate;
+    font-size:2.5rem;
+    
+}
+p {
+    font-size:1.16rem;
+    line-height:1.16rem;
+}
+a {
+    color:#fff;
+    font-size:1.18rem;
+    text-decoration:none;
+    display:inline-block;
+    padding:12px 20px;
+    background-color:#160bb1;
+    border-radius:8px;
+    
+}

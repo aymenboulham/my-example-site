@@ -1,0 +1,33 @@
+body {
+    background-color:aqua;
+    justify-content:center;
+}
+h1 {
+    color:#ffffff;
+    font-weight:normal;
+    font-size:5rem;
+    text-align:center;
+}
+p {
+    font-size:4rem;
+    text-align:center;
+}
+
+a {
+    color:#fff;
+    font-size:1.18rem;
+    text-decoration:none;
+    display:inline-block;
+    padding:12px 20px;
+    background-color:#160bb1;
+    border-radius:8px;
+    
+}
+
+.photo {
+    padding:50px;
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-row-gap:50px;
+    
+}
